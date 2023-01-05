@@ -1,0 +1,6 @@
+const studentData = [
+  
+    
+];
+
+export { studentData };
