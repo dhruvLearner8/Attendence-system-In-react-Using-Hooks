@@ -1,3 +1,20 @@
+# Home Page
+![image](https://user-images.githubusercontent.com/83899022/210715907-6870643f-6a51-42d4-8565-e128994cb80b.png)
+
+# Add Student in Class
+![image](https://user-images.githubusercontent.com/83899022/210716057-6cd304a5-5cc4-48cf-9ff4-7606fd31039c.png)
+
+#Home Page after adding 1 student
+![image](https://user-images.githubusercontent.com/83899022/210716214-2ddb3e55-fcfe-4c62-8740-5ed892ee6480.png)
+
+# Edit Page
+![image](https://user-images.githubusercontent.com/83899022/210716376-3a70e53f-5e52-473e-997a-85beeff78831.png)
+
+
+#Click Leave
+![image](https://user-images.githubusercontent.com/83899022/210716467-6ea12792-8019-4570-97ee-39f9b8746f86.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
